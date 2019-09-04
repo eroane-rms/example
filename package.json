@@ -1,0 +1,22 @@
+{
+  "name": "temporary-private-thing",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkdorff/temporary-private-thing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkdorff/temporary-private-thing/issues"
+  },
+  "homepage": "https://github.com/mkdorff/temporary-private-thing#readme"
+}
