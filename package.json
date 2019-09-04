@@ -1,7 +1,7 @@
 {
-  "name": "temporary-private-thing",
+  "name": "@mohonri/example",
   "version": "1.0.0",
-  "description": "",
+  "description": "nope",
   "files": [
     "index.js"
   ],
@@ -9,11 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mkdorff/temporary-private-thing.git"
-  },
-  "author": "",
+  "repository": "git://github.com/my-org/test.git",
+  "author": "mohonri",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mkdorff/temporary-private-thing/issues"
